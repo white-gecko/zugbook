@@ -22,3 +22,7 @@ $ peotry run jupyter notebook
 - [onboard-plasmoid](https://github.com/timschneeb/onboard-plasmoid) - A KDE plasmoid that displays live local telemetry data about the train you're sitting in
 - [ice-portal-speed-logger](https://github.com/rurseekatze/ice-portal-speed-logger) - A shellscript for logging the speed of German ICE trains
 - [Some further APIs by the Deutsche Bahn](https://developer-docs.deutschebahn.com/doku/apis/)
+
+## Screenshot
+
+![2024-04-27-205420_002](https://github.com/white-gecko/zugbook/assets/1018168/4b7e033c-134b-40ca-8c95-a4976a750f6e)
