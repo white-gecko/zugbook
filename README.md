@@ -1,4 +1,7 @@
-onboardapis, was, what I was looking for: [documentation](https://felix-zenk.github.io/onboardapis/onboardapis.html), [repository](https://github.com/felix-zenk/onboardapis), [pypi](https://pypi.org/project/onboardapis/)
+> [!NOTE]
+> **onboardapis**, was what I was looking for: [documentation](https://felix-zenk.github.io/onboardapis/onboardapis.html), [repository](https://github.com/felix-zenk/onboardapis), [pypi](https://pypi.org/project/onboardapis/)
+
+----
 
 # Zug Book
 Jupyter Notebook for the iceportal.de in the trains of the Deutsche Bahn.
